@@ -5,12 +5,13 @@
 ### B.Sc. in Computer Science & Engineering @ International Islamic University Chittagong
 
 **Aspiring AI Engineer · Software Developer · Technology Enthusiast**
-
-_I enjoy learning, exploring emerging technologies, and building practical solutions to real-world problems._
+\
 
 <br/>
 
-<a href="https://farabi-aar.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-farabi--aar.vercel.app-0891b2?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+<a href="https://farabi-aar.vercel.app/">
+  <img src="https://img.shields.io/badge/Portfolio-farabi--aar.vercel.app-0891b2?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+</a>
 <a href="mailto:farabi.aar@gmail.com"><img src="https://img.shields.io/badge/Email-farabi.aar%40gmail.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 <a href="https://www.linkedin.com/in/farabi-aar"><img src="https://img.shields.io/badge/LinkedIn-farabi--aar-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="https://www.github.com/coderfarabi"><img src="https://img.shields.io/badge/GitHub-coderfarabi-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
@@ -84,11 +85,6 @@ _I enjoy learning, exploring emerging technologies, and building practical solut
 ## GitHub Statistics
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=coderfarabi&show_icons=true&hide_border=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&count_private=true" alt="Farabi's GitHub Stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=coderfarabi&layout=compact&langs_count=8&hide_border=true&title_color=0891b2&text_color=ffffff&bg_color=1c1917" alt="Most Used Languages" />
-</div>
-
-<div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=coderfarabi&hide_border=true&background=1c1917&ring=0891b2&fire=0891b2&currStreakLabel=0891b2&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=ffffff" alt="GitHub Contribution Streak" />
 </div>
 
@@ -97,6 +93,8 @@ _I enjoy learning, exploring emerging technologies, and building practical solut
 <div align="center">
 
 ### Let's Connect & Build Something Great!
+
+_Enjoy learning, exploring emerging technologies, and building practical solutions to real-world problems._ 
 
 _Always curious. Always learning. Always building._
 
